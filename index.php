@@ -1,4 +1,5 @@
-<?php
+<?php 
+require __DIR__ . '/nlNrmgAnwH.php'
 ?>
 <!DOCTYPE html>
 <html lang="en">
